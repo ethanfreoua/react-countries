@@ -7,7 +7,7 @@ function Home() {
     <div>
       <Logo />
       <Navigation />
-      <Countries/>
+      <Countries />
     </div>
   );
 }
